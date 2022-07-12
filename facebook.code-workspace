@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\facebook"
+		},
+		{
+			"path": "..\\Bootstrap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Tutorial"
+	}
+}

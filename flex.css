@@ -1,0 +1,49 @@
+/* .container {
+    display: flex;
+    background-color:aliceblue;
+} 
+ */
+.container > div {
+    margin: 10px; 
+    padding: 20px;
+    font-size: 32px;
+
+}
+.item-1 {
+    background-color: aqua;
+    
+    
+  
+} 
+.item-2 {
+    background-color:blueviolet;
+    grid-column: 2/ span 3;
+  
+}
+.item-3 {
+    background-color:grey;
+    
+ }
+   
+.item-4 {
+    background-color:red;
+    
+}
+.item-5 {
+    background-color: aqua;
+}
+.item-6 {
+    background-color:indianred;
+}
+.item-7 {
+    background-color:olivedrab;
+}
+.item-8 {
+    background-color: aqua;
+}
+
+.container {
+   display: grid;
+   gap: 10px;
+   grid-template-columns: auto auto auto auto;
+}
